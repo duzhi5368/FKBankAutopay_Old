@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("FKCashierBank")]
 [assembly: AssemblyDescription("FK自动收付款节点【银行】")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("IVI")]
+[assembly: AssemblyCompany("FreeKnight personal")]
 [assembly: AssemblyProduct("FKCashierBank")]
-[assembly: AssemblyCopyright("Copyright © IVI 2017")]
+[assembly: AssemblyCopyright("Copyright © freeknight 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
